@@ -22,6 +22,11 @@ jakelauterstein@gmail.com
 ## Version History
 
 0.1 Initial Release - optimizations were completed in a single draft updated locally,with a single commit uploading the finished version. 
+0.2 Added readme Screenshot
+
+## Project Screenshot
+
+![full-site-screenshot](assets/images/01-html-css-git-homework-demo.png)
 
 ## Acknowledgments
 
